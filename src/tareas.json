@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Task 1",
+        "responsible": "Linus",
+        "description": "lorem ipsum",
+        "priority": "Low"
+    },
+    {
+        "title": "Task 2",
+        "responsible": "James",
+        "description": "lorem ipsum",
+        "priority": "Hight"
+    },
+    {
+        "title": "Task 3",
+        "responsible": "Brendan",
+        "description": "lorem ipsum",
+        "priority": "Medium"
+    },
+    {
+        "title": "Task 4",
+        "responsible": "Rasmus",
+        "description": "lorem ipsum",
+        "priority": "Low"
+    }
+]

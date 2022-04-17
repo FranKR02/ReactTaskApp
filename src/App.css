@@ -1,0 +1,47 @@
+.card {
+  height: 260px;
+}
+#card-form{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px 40px 8px;
+}
+.span{
+  display: flex;
+  justify-content: center;
+}
+#badge{
+  width: 130px;
+  height: 40px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: x-large;
+}
+#container-navbar {
+  justify-content: flex-start;
+  align-items: center;
+}
+.form-group{
+  margin-top: 4px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 35px;
+  animation: App-logo-spin infinite 20s linear;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
